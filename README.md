@@ -1,0 +1,1 @@
+Learning about game develope and how to work in both sides, client side and server side | Actually working as front-end developer with experiences in web layout, responsive design, spa, api integrations | Interested in IA, Machine Learning and NLP |Trying to create my own virtual assistant | Html5 | CSS | Js | Python | C#

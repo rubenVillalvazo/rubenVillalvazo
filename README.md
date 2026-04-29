@@ -1,1 +1,4 @@
 Learning about game developement and how to work in client side and server side | Actually working as front-end developer with experience in web layout, responsive design, spa, api integrations | Interested in IA, Machine Learning and NLP | Nowadays I am creating my own virtual assistant | Html5 | CSS | Js | Python | C# in Unity | Rust
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenVillalvazo&hide=contribs,prs)
